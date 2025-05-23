@@ -1,0 +1,12 @@
+{
+  "name": "crud-api",
+  "main": "functions/index.js",
+  "compatibility_date": "2024-05-01",
+  "d1_databases": [
+	{
+	  "binding": "DB",
+	  "database_name": "crud-database",
+	  "database_id": "<adda31c9-02b7-4ca0-b923-1ce0ee42fcff>"
+	}
+  ]
+}
